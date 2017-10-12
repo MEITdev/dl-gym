@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Machine Learning Notebooks
 ==========================
 
@@ -105,3 +106,7 @@ This should open up your browser, and you should see Jupyter's tree view, with t
 Note: you can also visit [http://localhost:8888/nbextensions](http://localhost:8888/nbextensions) to activate and configure Jupyter extensions.
 
 Congrats! You are ready to learn Machine Learning, hands on!
+=======
+# dl-gym
+Deep Learning Gym
+>>>>>>> 61f793f60b76838c0c531fa8b6628d8fad582a56
